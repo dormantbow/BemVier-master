@@ -1,0 +1,147 @@
+
+#frame {
+	font-size: 12px;
+}
+
+#topo {
+	position: absolute;
+	text-align: center;
+	width: 100%;
+	height: 10%;
+	font-size: 20px;
+	top: 5%;
+	font-weight: bold;
+}
+
+#cadastro {
+	position: absolute;
+	border-style: solid;
+	background-color: beige;
+	width: 98%;
+	height: 85%;
+	left: 0;
+	top: 15%;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+#nome {
+	position: relative;
+    top: 15px;
+}
+
+#sobre {
+    position: relative;
+    top: 15px;
+}
+
+
+
+@media only screen and (min-width: 400px) {
+    #frame {
+        font-size: 18px;
+    }
+    #topo {
+        font-size: 25px;
+    }
+    #nome {
+    }
+    #sobre {
+
+    }
+    #end1 {
+        width: 190px;
+        height: ;
+    }
+    #rua {
+
+    }
+    #bairro1 {
+        width: 70px;
+        height: ;
+    }
+    #cit {
+
+    }
+    #em1 {
+        width: 100px;
+        height:;
+    }
+    #tel1 {
+
+    }
+    #cpf1 {
+        width: 95px;
+        height:;
+    }
+    #nasc1 {
+
+    }
+    #usr1 {
+        width: 95px;
+        height:;
+    }
+    #pswd1 {
+
+    }
+}
+
+
+@media only screen and (min-width: 480px) {
+    #frame {
+        font-size: 18px;
+    }
+    #topo {
+        font-size: 25px;
+    }
+    #nome1 {
+        width: 130px;
+        height:;
+    }
+
+    #sobre1 {
+    }
+
+    #end1 {
+        width: 225px;
+        height:;
+    }
+
+    #rua1 {
+        width: 50px;
+        height:;
+    }
+
+    #bairro1 {
+        width: 125px;
+        height:;
+    }
+
+    #cit {
+    }
+
+    #em1 {
+        width: 155px;
+        height:;
+    }
+
+    #tel1 {
+    }
+
+    #cpf1 {
+        width: 150px;
+        height:;
+    }
+
+    #nasc1 {
+    }
+
+    #usr1 {
+        width: 150px;
+        height:;
+    }
+
+    #pswd1 {
+    }
+}

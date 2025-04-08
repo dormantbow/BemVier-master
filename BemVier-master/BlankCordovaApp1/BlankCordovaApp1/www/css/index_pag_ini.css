@@ -1,0 +1,218 @@
+
+body {
+    background-color: #FE7660;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0px;
+    padding: 0px;
+    font-size: 12px;
+}
+
+#tudo {
+    border-style: solid;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    border-width: 0;
+    margin: 0px;
+    padding: 0px;
+}
+
+#cab {
+    border-style: solid;
+    position: fixed;
+    width: 100%;
+    height: 10%;
+    top: 0;
+    left: 0;
+    border-width: 0;
+    text-align: center;
+    z-index: 1;
+    margin: 0px;
+    padding: 0px;
+}
+#logo {
+    position: absolute;
+    width: 35%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    margin: 0px;
+    padding: 0px;
+}
+#logo2 {
+    position: absolute;
+    width: 65%;
+    height: 100%;
+    left: 35%;
+    top: 0;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#prom {
+    border-style: solid;
+    position: fixed;
+    width: 100%;
+    height: 20%;
+    top: 10%;
+    left: 0;
+    border-width: 0.5px;
+    z-index: 1;
+    margin: 0px;
+    padding: 0px;
+}
+#img_prom {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.btn {
+    background-color: #ffffff;
+    border: 0.5px solid #000000;
+    display: inline-block;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.btn:hover {
+    background-color: #f3eded;
+}
+.btn:active {
+    position: absolute;
+}
+
+
+#menus {
+    border-style: solid;
+    position: fixed;
+    width: 100%;
+    height: 5%;
+    top: 30%;
+    left: 0;
+    background-color: white;
+    border-width: 0.5px;
+    z-index: 1;
+    margin: 0px;
+    padding: 0px;
+}
+
+#menu1 {
+    border-style: solid;
+    position: absolute;
+    height: 100%;
+    width: 25%;
+    left: 0;
+    top: 0;
+    border-width: 0.5px;
+    margin: 0px;
+    padding: 0px;
+}
+#lupa {
+    position: absolute;
+    top: 2px;
+    left: 5%;
+    height: 80%;
+    margin: 0px;
+    padding: 0px;
+}
+#menu2 {
+    border-style: solid;
+    position: absolute;
+    height: 100%;
+    width: 25%;
+    left: 25%;
+    top: 0;
+    border-width: 0.5px;
+    margin: 0px;
+    padding: 0px;
+}
+#engr {
+    position: absolute;
+    top: 2px;
+    left: 5%;
+    height: 80%;
+    margin: 0px;
+    padding: 0px;
+}
+#menu3 {
+    border-style: solid;
+    position: absolute;
+    height: 100%;
+    width: 25%;
+    left: 50%;
+    top: 0;
+    border-width: 0.5px;
+    margin: 0px;
+    padding: 0px;
+}
+#pess {
+    position: absolute;
+    top: 2px;
+    left: 5%;
+    height: 80%;
+    margin: 0px;
+    padding: 0px;
+}
+#menu4 {
+    border-style: solid;
+    position: absolute;
+    height: 100%;
+    width: 25%;
+    top: 0;
+    left: 75%;
+    border-width: 0.5px;
+    margin: 0px;
+    padding: 0px;
+}
+#carr {
+    position: absolute;
+    top: 2px;
+    left: 5%;
+    height: 80%;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#frame {
+    position: absolute;
+    width: 100%;
+    height: 56%;
+    top: 36%;
+    left: 0;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#prop {
+    border-style: solid;
+    position: fixed;
+    width: 100%;
+    height: 8%;
+    top: 92%;
+    left: 0;
+    background-color: white;
+    border-width: 0.5px;
+    z-index: 1;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+

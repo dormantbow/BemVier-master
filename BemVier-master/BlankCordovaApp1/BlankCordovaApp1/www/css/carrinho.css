@@ -1,0 +1,136 @@
+
+body {
+}
+
+#titulo1 {
+    position: fixed;
+    top: 15.7%;
+    border-bottom-style:;
+    height: 10%;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    z-index: 1;
+    background-color: #FE7660;
+}
+#imagem {
+    height: 80%;
+    width: 15%;
+}
+
+#tabela {
+    position: absolute;
+    background-color: beige;
+    top: 14.5%;
+    width: 100%;
+    height: 75%;
+    z-index: 0;
+}
+
+.prod {
+    position: absolute;
+    border-style: solid;
+    width: 25%;
+    left: 0;
+    background-color: beige;
+    border-width: 2px;
+    height: 100%;
+}
+.qtd {
+    position: absolute;
+    border-style: solid;
+    width: 25%;
+    left: 25%;
+    background-color: beige;
+    border-width: 2px;
+    height: 100%;
+}
+.preco {
+    position: absolute;
+    border-style: solid;
+    width: 25%;
+    left: 50%;
+    background-color: beige;
+    border-width: 2px;
+    height: 100%;
+}
+.sub {
+    position: absolute;
+    border-style: solid;
+    width: 25%;
+    height: 100%;
+    left: 75%;
+    background-color: beige;
+    border-width: 2px;
+}
+
+.um {
+    position: relative;
+    border-style: ;
+    width: 100%;
+    height: 6%;
+}
+#um {
+    position: fixed;
+    top: 25.7%;
+    z-index: 1;
+    width: 100%;
+    height: 3.9%;
+}
+
+
+
+#tot {
+    position: absolute;
+    border-style: solid;
+    width: 50%;
+    left: 0;
+    background-color: beige;
+    border-width: 2px;
+    height: 100%;
+}
+#prec_tot {
+    position: absolute;
+    border-style: solid;
+    width: 50%;
+    left: 50%;
+    background-color: beige;
+    border-width: 2px;
+    height: 100%;
+}
+
+
+#baixo {
+    position: fixed;
+    border-top-style: solid;
+    top: 84%;
+    width: 100%;
+    height: 8%;
+    z-index: 1;
+    background-color: #FE7660;
+}
+#btn1 {
+    position: absolute;
+    top: 5px;
+    left: 0;
+}
+#btn2 {
+    position: absolute;
+    top: 5px;
+    right: 0;
+}
+
+
+
+#branco {
+    border-style: none;
+    position: absolute;
+    width: 35%;
+    height: 10%;
+    background-color: white;
+    left: 10%;
+    top: 126%;
+    border-width: 0.5px;
+    border-radius: 10px;
+    background-color: #FE7660;
+}
